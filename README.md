@@ -15,16 +15,14 @@ Nkheso Senior Mathebula 230762883
 ### Reflection (STAR Technique)
 
 **Situation:**  
-On 14 March 2025, I completed the *Interview Skills* training module. , I participated in the Career Development module as part of the PRP372S course.
-
+On 7-March-2025, as part of the PRP372S Work Readiness module, I completed the Business Communication online course. This module focused on developing clear and professional communication skills for workplace environments.
 **Task:**  
-I was required to explore career opportunities in the ICT field and identify my personal career goals.
+The objective was to understand and apply formal communication techniques, including proper email structure, meeting etiquette, and professional tone.
 
 **Action:**  
-I researched job portals, attended a virtual career counseling session, and created a career action plan outlining both my short-term and long-term goals.
-
+I completed the training and related quizzes, learning the importance of clarity, tone, and appropriate language in workplace communication. I also practiced structuring formal messages and adapting to virtual communication etiquette.
 **Result:**  
-I gained a clearer understanding of career paths in application development. Additionally, I developed a goal map that I will use to stay focused during my final year and after graduation.
+I achieved a 100% score and improved my ability to express myself professionally in both written and verbal communication within business settings.
 
 ---
 
@@ -36,16 +34,16 @@ I gained a clearer understanding of career paths in application development. Add
 ### Reflection (STAR Technique)
 
 **Situation:**  
-On 13-February-2025, as part of the PRP372S Work Readiness module, I successfully completed an online course titled "Skills and Interests." This course was designed to help me delve into my personal values, interests, and transferable skills.
+On 14-March-2025, as part of the PRP372S Work Readiness module, I successfully completed the *Interview Skills* online course. This module was designed to equip students with practical techniques for performing confidently in professional job interviews.  
 
 **Task:**  
-The objective was to comprehend how my values and interests shape my career choices and to identify the skills I can leverage across various roles in the ICT field.
+I needed to understand how to prepare for interviews, respond to common and behavioral questions, and express my strengths clearly.  
 
 **Action:**  
-I engaged thoroughly with the learning modules and quiz activities included in the course. These modules addressed topics such as "What Are Values?", "Skills and Transferable Skills," and "How Interests and Values Influence Career Decisions." I completed all sections and took the opportunity to reflect on my strengths and preferences in response to the provided questions.
+I completed the interactive learning activities and quizzes, which covered topics such as the STAR and CAR methods, research before interviews, and strategies for answering common questions like “Tell me about yourself.” I practiced these techniques and refined my speaking confidence.  
 
 **Result:**  
-By completing the course, I gained a deeper understanding of the skills and how they align with potential careers in application development, including roles such as software developer, mobile app designer, and full-stack engineer.
+I scored **100%** and gained confidence in presenting myself during interviews. I also learned how to remain professional, calm, and well-prepared for any interview scenario.  
 
 ---
 
@@ -60,16 +58,16 @@ By completing the course, I gained a deeper understanding of the skills and how 
 ### Reflection (STAR Technique)
 
 **Situation:**  
-On 21-February-2025, I completed a Personality and Career Matching assessment as part of the PRP372S Work Readiness module.
+On 21-March-2025, as part of the PRP372S Work Readiness module, I was required to conduct and record a *Mock Interview* video. This activity was intended to simulate a real-life job interview to assess my communication, confidence, and professionalism.  
 
 **Task:**  
-The goal of the task was to explore my characteristics and identify career options that suit my personality.
+The goal was to apply my previously learned interview skills in a practical context by recording myself answering common ICT-related interview questions.  
 
 **Action:**  
-I completed a personality test and reflected on the suggested careers that align with my strengths and working style.
+I prepared a set of professional interview questions and practiced my responses beforehand. I dressed appropriately, ensured good lighting and sound quality, and recorded myself maintaining clear speech, eye contact, and confident posture. After completing the video, I reviewed it to identify areas for improvement before uploading my final Mock Interview video to GitHub and Blackboard for assessment.
 
 **Result:**  
-I scored 100% on the assessment, which confirmed my understanding of personality types and helped me align my career interests with my personal traits.
+Through this experience, I improved my confidence and presentation skills. The video submission helped me identify how to control my tone, body language, and speech during real interviews. It also gave me insight into how I appear to potential employers and where I can continue to improve in future interview scenarios.  
 
 ---
 
@@ -81,13 +79,16 @@ I scored 100% on the assessment, which confirmed my understanding of personality
 ### Reflection (STAR Technique)
 
 **Situation:**  
-As part of the Career Development component of the PRP372S Work Readiness module, I completed the “Create a CV” training and quiz in February 2025.
+On 21-March-2025, I completed the Professional Networking module as part of the Work Readiness training. The course focused on building and maintaining professional relationships within the ICT industry.
 
 **Task:**  
-The objective was to present a well-crafted, professional CV that effectively highlighted my skills and readiness for employment.
+I was required to develop a professional online presence, particularly through platforms like LinkedIn, and understand effective networking strategies.
 
 **Action:**  
-I uploaded my CV file to my GitHu
+I created and refined my LinkedIn profile, connected with peers, lecturers, and industry professionals, and explored opportunities for collaboration. The module also emphasized communication etiquette and consistent professional engagement online
+
+**Result:**  
+I achieved a 100% score and established a strong professional identity. This has allowed me to connect with ICT professionals, stay informed about career opportunities, and expand my career network.
 
 ---
 
@@ -100,11 +101,16 @@ I uploaded my CV file to my GitHu
 ### Reflection (STAR Technique)
 
 **Situation:**  
-As part of the Career Development component of the PRP372S Work Readiness module, I completed the “Create a CV” training and quiz in February 2025.
+On 28-March-2025, I successfully completed the Workplace Etiquette online course under the PRP372S Work Readiness module. The module focused on understanding professional behavior and ethics in the workplace.
 
 **Task:**  
-The objective was to present a well-crafted, professional CV that effectively highlighted my skills and readiness for employment.
+The aim was to demonstrate knowledge of workplace conduct, time management, confidentiality, and teamwork principles.
 
 **Action:**  
-I uploaded my CV file to my GitHu
+I participated in the course’s learning materials and quizzes, which covered professional communication, punctuality, and respect in the workplace. I reflected on how these behaviors contribute to productivity and positive work relationships.
+
+**Result:**  
+I achieved a 100% score and developed a strong understanding of professional standards, preparing me to adapt effectively to organizational culture and expectations
+
+---
 
