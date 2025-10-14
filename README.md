@@ -1,5 +1,5 @@
 # Digital-Portfolio-PRP372s
-use this example for structurelike this?:# Digital-portfolio-PRP372
+
 Cape Peninsula University of Technology
 
 Diploma in Information and Communication Technology
