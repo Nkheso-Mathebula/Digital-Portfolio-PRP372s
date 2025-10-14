@@ -49,14 +49,10 @@ I scored **100%** and gained confidence in presenting myself during interviews. 
 
 ---
 
-## 3. MOCK INTERVIEW
+## 3. MOCK INTERVIEW VIDEO
 
 ### Evidence
 ![Mock Interview Video Blackboard Submission](https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/MOCKVIDEO%20SUBMISSION.png)
-
-📥 [Download My Video)](https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/Mock%20Interview%20Video.mp4)
-
-## 🎥 Mock Interview Video
 
 [Click here to watch the Mock Interview Video](https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/Mock%20Interview%20Video.mp4?raw=true)
 
