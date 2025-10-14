@@ -15,7 +15,7 @@ Nkheso Senior Mathebula 230762883
 ### Reflection (STAR Technique)
 
 **Situation:**  
-On February 7, 2025, I participated in the Career Development module as part of the PRP372S course.
+On 14 March 2025, I completed the *Interview Skills* training module. , I participated in the Career Development module as part of the PRP372S course.
 
 **Task:**  
 I was required to explore career opportunities in the ICT field and identify my personal career goals.
@@ -52,7 +52,10 @@ By completing the course, I gained a deeper understanding of the skills and how 
 ## 3. MOCK INTERVIEW
 
 ### Evidence
-![MOCK INTERVIEW](https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/Mock%20Interview%20Video.mp4)(https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/MOCKVIDEO%20SUBMISSION.png)
+![MOCK INTERVIEW](https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/Mock%20Interview%20Video.mp4)
+(https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/MOCKVIDEO%20SUBMISSION.png)
+
+
 📥 [Download My CV (PDF)](https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/Mock%20Interview%20Video.mp4)
 ### Reflection (STAR Technique)
 
@@ -88,7 +91,7 @@ I uploaded my CV file to my GitHu
 
 ---
 
-## 4. WORKPLACE ETIQUETTE
+## 5. WORKPLACE ETIQUETTE
 
 ### Evidence
 ![ WORKPLACE ETIQUETTE](https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/WORKPLACE%20ETIQUETTE.png)
