@@ -16,11 +16,13 @@ Nkheso Senior Mathebula 230762883
 
 **Situation:**  
 On 7-March-2025, as part of the PRP372S Work Readiness module, I completed the Business Communication online course. This module focused on developing clear and professional communication skills for workplace environments.
+
 **Task:**  
 The objective was to understand and apply formal communication techniques, including proper email structure, meeting etiquette, and professional tone.
 
 **Action:**  
 I completed the training and related quizzes, learning the importance of clarity, tone, and appropriate language in workplace communication. I also practiced structuring formal messages and adapting to virtual communication etiquette.
+
 **Result:**  
 I achieved a 100% score and improved my ability to express myself professionally in both written and verbal communication within business settings.
 
@@ -50,11 +52,11 @@ I scored **100%** and gained confidence in presenting myself during interviews. 
 ## 3. MOCK INTERVIEW
 
 ### Evidence
-![MOCK INTERVIEW](https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/Mock%20Interview%20Video.mp4)
-(https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/MOCKVIDEO%20SUBMISSION.png)
+![MOCK INTERVIEW BLACBOARD SUBMISSION](https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/MockInterview.png)  
+
+🎥 [Watch Mock Interview Video](https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/MockInterviewVideo.mp4)  
 
 
-📥 [Download My CV (PDF)](https://github.com/Nkheso-Mathebula/Digital-Portfolio-PRP372s/blob/main/Mock%20Interview%20Video.mp4)
 ### Reflection (STAR Technique)
 
 **Situation:**  
