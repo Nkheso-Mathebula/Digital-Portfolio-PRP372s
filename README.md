@@ -6,7 +6,7 @@ Diploma in Information and Communication Technology
 
 Subject: Project Presentation 3
 
-Nkheso Senior Mathebula 230762883 
+Nkheso Senior Mathebula 
 ## 1. BUSINESS COMMUNICATION
 
 ### Evidence
