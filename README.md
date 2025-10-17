@@ -7,6 +7,9 @@ Diploma in Information and Communication Technology
 Subject: Project Presentation 3
 
 Nkheso Senior Mathebula 
+
+This digital portfolio is a comprehensive collection of evidence and reflections from my Work Readiness Training. It is structured around the core learning areas and demonstrates my professional development. Each section includes evidence and a personal reflection using the STAR technique (Situation, Task, Action, Result) to critically analyze my learning journey. All work was completed individually.
+
 ## 1. BUSINESS COMMUNICATION
 
 ### Evidence
@@ -15,7 +18,7 @@ Nkheso Senior Mathebula
 ### Reflection (STAR Technique)
 
 **Situation:**  
-On 7-March-2025, as part of the PRP372S Work Readiness module, I completed the Business Communication online course. This module focused on developing clear and professional communication skills for workplace environments.
+As part of the PRP372S Work Readiness module, I was required to complete the Business Communication online course, which focused on developing clear, structured, and professional communication skills essential for workplace success.
 
 **Task:**  
 The objective was to understand and apply formal communication techniques, including proper email structure, meeting etiquette, and professional tone.
@@ -24,7 +27,7 @@ The objective was to understand and apply formal communication techniques, inclu
 I completed the training and related quizzes, learning the importance of clarity, tone, and appropriate language in workplace communication. I also practiced structuring formal messages and adapting to virtual communication etiquette.
 
 **Result:**  
-I achieved a 100% score and improved my ability to express myself professionally in both written and verbal communication within business settings.
+As a result improved my ability to express myself professionally in both written and verbal communication within business settings.
 
 ---
 
@@ -36,7 +39,7 @@ I achieved a 100% score and improved my ability to express myself professionally
 ### Reflection (STAR Technique)
 
 **Situation:**  
-On 14-March-2025, as part of the PRP372S Work Readiness module, I successfully completed the *Interview Skills* online course. This module was designed to equip students with practical techniques for performing confidently in professional job interviews.  
+As part of the PRP372S Work Readiness, I completed the Interview Skills online course. This module was designed to equip students with practical techniques for performing confidently in professional job interviews.  
 
 **Task:**  
 I needed to understand how to prepare for interviews, respond to common and behavioral questions, and express my strengths clearly.  
@@ -45,7 +48,7 @@ I needed to understand how to prepare for interviews, respond to common and beha
 I completed the interactive learning activities and quizzes, which covered topics such as the STAR and CAR methods, research before interviews, and strategies for answering common questions like “Tell me about yourself.” I practiced these techniques and refined my speaking confidence.  
 
 **Result:**  
-I scored **100%** and gained confidence in presenting myself during interviews. I also learned how to remain professional, calm, and well-prepared for any interview scenario.  
+I gained confidence in presenting myself during interviews. I also learned how to remain professional, calm, and well-prepared for any interview scenario.  
 
 ---
 
@@ -60,7 +63,7 @@ I scored **100%** and gained confidence in presenting myself during interviews. 
 ### Reflection (STAR Technique)
 
 **Situation:**  
-On 21-March-2025, as part of the PRP372S Work Readiness module, I was required to conduct and record a *Mock Interview* video. This activity was intended to simulate a real-life job interview to assess my communication, confidence, and professionalism.  
+As part of the PRP372S Work Readiness module, I was required to conduct and record a *Mock Interview* video. This activity was intended to simulate a real-life job interview to assess my communication, confidence, and professionalism.  
 
 **Task:**  
 The goal was to apply my previously learned interview skills in a practical context by recording myself answering common ICT-related interview questions.  
@@ -81,7 +84,7 @@ Through this experience, I improved my confidence and presentation skills. The v
 ### Reflection (STAR Technique)
 
 **Situation:**  
-On 21-March-2025, I completed the Professional Networking module as part of the Work Readiness training. The course focused on building and maintaining professional relationships within the ICT industry.
+I was required to complete the Professional Networking module as part of the Work Readiness. The course focused on building and maintaining professional relationships within the ICT industry.
 
 **Task:**  
 I was required to develop a professional online presence, particularly through platforms like LinkedIn, and understand effective networking strategies.
@@ -90,7 +93,7 @@ I was required to develop a professional online presence, particularly through p
 I created and refined my LinkedIn profile, connected with peers, lecturers, and industry professionals, and explored opportunities for collaboration. The module also emphasized communication etiquette and consistent professional engagement online
 
 **Result:**  
-I achieved a 100% score and established a strong professional identity. This has allowed me to connect with ICT professionals, stay informed about career opportunities, and expand my career network.
+I established a strong professional identity. This has allowed me to connect with ICT professionals, stay informed about career opportunities, and expand my career network.
 
 ---
 
@@ -103,7 +106,7 @@ I achieved a 100% score and established a strong professional identity. This has
 ### Reflection (STAR Technique)
 
 **Situation:**  
-On 28-March-2025, I successfully completed the Workplace Etiquette online course under the PRP372S Work Readiness module. The module focused on understanding professional behavior and ethics in the workplace.
+I successfully completed the Workplace Etiquette online course under the PRP372S Work Readiness. The module focused on understanding professional behavior and ethics in the workplace.
 
 **Task:**  
 The aim was to demonstrate knowledge of workplace conduct, time management, confidentiality, and teamwork principles.
@@ -112,7 +115,7 @@ The aim was to demonstrate knowledge of workplace conduct, time management, conf
 I participated in the course’s learning materials and quizzes, which covered professional communication, punctuality, and respect in the workplace. I reflected on how these behaviors contribute to productivity and positive work relationships.
 
 **Result:**  
-I achieved a 100% score and developed a strong understanding of professional standards, preparing me to adapt effectively to organizational culture and expectations
+I developed a strong understanding of professional standards, preparing me to adapt effectively to organizational culture and expectations
 
 ---
 
